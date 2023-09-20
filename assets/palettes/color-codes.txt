@@ -1,0 +1,7 @@
+Navy blue:              #101b37
+White-blue:             #bbf3fb
+Neon bright pink:       #e41476
+Neon dark pink:         #f50511
+Neon blue:              #02c8ed
+Bright orange:          #f79236
+Dark orange:            #cd5322
